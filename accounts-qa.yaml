@@ -4,7 +4,7 @@ build:
 accounts:
   message: "This is the QA environment for Accounts Service"
   contactDetails:
-    name: "QA Support"
+    name: "{cipher}716e76cd0df448f3e5bb4d4ab5501bfa07a4892d2a0cfc0ff49e0b8138597bc04f300128a2c20be70f7604a8a266093d"
     email: "aktest@gmail.com"
   onCallSupport:
     - (+91) 1234567890
