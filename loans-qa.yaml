@@ -2,7 +2,7 @@ build:
   version : 1.0.0-qa
 
 loans:
-  message: "This is the QA environment for Loans Service"
+  message: "This is the QA environment for Loans Service - (Actuator Bus refresh)"
   contactDetails:
     name: "QA Support"
     email: "aktest@gmail.com"
