@@ -13,4 +13,5 @@ cards:
 management:
   endpoints:
     web:
-      base-path: "*"
+      exposure:
+        include: "*"
