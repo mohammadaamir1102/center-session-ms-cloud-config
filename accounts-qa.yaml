@@ -9,3 +9,8 @@ accounts:
   onCallSupport:
     - (+91) 1234567890
     - (+91) 9876543210
+
+management:
+  endpoints:
+    web:
+      base-path: "*"
