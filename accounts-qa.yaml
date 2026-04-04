@@ -4,7 +4,7 @@ build:
 accounts:
   message: "This is the QA environment for Accounts Service"
   contactDetails:
-    name: "QA Support by Aamir Khan"
+    name: "QA Support by Aamir Khan - (Actuator refresh)"
     email: "aktest@gmail.com"
   onCallSupport:
     - (+91) 1234567890
