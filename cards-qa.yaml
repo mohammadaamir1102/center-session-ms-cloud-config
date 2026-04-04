@@ -2,7 +2,7 @@ build:
   version : 1.0.0-qa
 
 cards:
-  message: "This is the QA environment for Cards Service"
+  message: "This is the QA environment for Cards Service - (Actuator Bus refresh)"
   contactDetails:
     name: "QA Support"
     email: "aktest@gmail.com"
